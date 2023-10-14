@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🧐  I’m a freelance front-end developer in Paris, France.
 - 🛠  I work on front-end development, plugins & themes for WordPress, and Magento 1 & 2 front-end development.
